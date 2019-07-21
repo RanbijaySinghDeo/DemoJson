@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When Gmail first launched, how much storage did it provide for your email?",
+            "correct_answer": "1GB",
+            "incorrect_answers": [
+                "512MB",
+                "5GB",
+                "Unlimited",
+                "1GB"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "HTML is what type of language?",
+            "correct_answer": "Markup Language",
+            "incorrect_answers": [
+                "Macro Language",
+                "Programming Language",
+                "Scripting Language",
+                "Markup Language"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is part of a database that holds only one type of information?",
+            "correct_answer": "Field",
+            "incorrect_answers": [
+                "Report",
+                "Field",
+                "Record",
+                "File"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": ".MOV extension refers usually to what kind of file?",
+            "correct_answer": "Animation/movie file",
+            "incorrect_answers": [
+                "Image file",
+                "Animation/movie file",
+                "Audio file",
+                "MS Office document"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This mobile OS held the largest market share in 2012.",
+            "correct_answer": "iOS",
+            "incorrect_answers": [
+                "Android",
+                "BlackBerry",
+                "Symbian",
+                "iOS"
+            ]
+        }
+    ]
+}
